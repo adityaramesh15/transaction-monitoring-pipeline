@@ -208,3 +208,4 @@ __marimo__/
 
 # Generated Data 
 raw_data/transactions.csv
+transactions_data.parquet
