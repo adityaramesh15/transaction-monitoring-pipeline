@@ -206,6 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Generated Data 
 raw_data/transactions.csv
-transactions_data.parquet
+transactions_data.parquet/
+suspicious_activity_report.csv/
